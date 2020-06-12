@@ -1,6 +1,5 @@
 # java_file_processor
-
-The solution is the problem statement given by One of the Reputed companies (Greater Bank Australia)
+This problem statement given by One of the Reputed companies (Greater Bank Australia)
 
 Below is the Problem Statement:
 
