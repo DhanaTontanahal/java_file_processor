@@ -46,3 +46,15 @@ Total Debits : $100,132.50
 Skipped Transactions: 103
 The report should be written to the directory $TRANSACTION_PROCESSING/reports
 report file name should be of the form finance_customer_transactions_report-${datetime}.txt
+
+
+![alt text](https://github.com/DhanaTontanahal/java_file_processor/blob/master/coding-challenge-by-greater-bank.png)
+
+
+
+
+![alt text](https://github.com/DhanaTontanahal/java_file_processor/blob/master/email-sc.png)
+
+
+
+
