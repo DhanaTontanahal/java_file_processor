@@ -53,7 +53,7 @@ report file name should be of the form finance_customer_transactions_report-${da
 
 
 
-![alt text](https://github.com/DhanaTontanahal/java_file_processor/blob/master/email-sc.png)
+![alt text](https://github.com/DhanaTontanahal/java_file_processor/blob/master/email-sc.PNG)
 
 
 
