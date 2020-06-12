@@ -1,0 +1,24 @@
+May 10, 2017 9:38:10 AM com.gb.cs.MyScheduler callScheduler
+INFO: Customer Transaction Processing started at Wed May 10 09:38:10 IST 2017
+May 10, 2017 9:38:10 AM com.gb.cs.ReadPropertiesFile readConfig
+INFO: Setting the properties
+May 10, 2017 9:38:20 AM com.gb.cs.MyTask run
+INFO: scheduled for this time...
+May 10, 2017 9:38:20 AM com.gb.cs.ProcessTransactions processFileTransactions
+INFO: processing transactions...
+May 10, 2017 9:38:20 AM com.gb.cs.ProcessTransactions processFileTransactions
+INFO: File processing done
+May 10, 2017 9:38:20 AM com.gb.cs.ReadPropertiesFile readConfig
+INFO: Setting the properties
+May 10, 2017 9:38:20 AM com.gb.cs.ProcessTransactions processFileTransactions
+INFO: Decrypting password for sending mail
+May 10, 2017 9:38:20 AM com.gb.cs.ProcessTransactions processFileTransactions
+INFO: Sending email
+May 10, 2017 9:38:24 AM com.gb.cs.CopyFile copyT
+INFO: Destination file doesn't exist. Creating one!
+May 10, 2017 9:38:24 AM com.gb.cs.CopyFile copyT
+INFO: Copying files to processed folder
+May 10, 2017 9:38:24 AM com.gb.cs.CopyFile copyT
+INFO: Deleting source file from pending folder
+May 10, 2017 9:38:24 AM com.gb.cs.CopyFile copyT
+INFO: Successfully completed the process at Wed May 10 09:38:24 IST 2017
